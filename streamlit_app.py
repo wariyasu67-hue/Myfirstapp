@@ -4,7 +4,7 @@ st.title('🎈 App Name')
 
 st.write('Hello world!')
 import streamlit as st
-import matplotlib3.pyplot as plt
+import matplotlib.pyplot as plt
 import numpy as np
 st.title('my first app')
 def f(x):
