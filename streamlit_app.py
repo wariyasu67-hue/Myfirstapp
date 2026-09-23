@@ -1,8 +1,8 @@
 import streamlit as st
 
-st.title('🎈 App Name')
+st.title('🎈 App appps newton')
 
-st.write('Hello world!')
+st.write('Hello Newton!')
 import streamlit as st
 import matplotlib.pyplot as plt
 import numpy as np
